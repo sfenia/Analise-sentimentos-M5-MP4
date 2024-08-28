@@ -5,7 +5,7 @@ Através desta atividade, pude realizar o processo (PLN) de Análise de
 Sentimento a partir de textos obtidos de tweets (mensagens publicadas na
 rede social Twitter/X).
 
-###Resultados esperados:✨
+### Resultados esperados:✨
 
 O resultado esperado dessa microatividade é permitir que o aluno aplique
 tanto os conhecimentos adquiridos ao longo das demais microatividades,
